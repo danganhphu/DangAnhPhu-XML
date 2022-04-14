@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "10f58e62-6b9d-4e19-acab-503460cd663a": {
+      "ProjectGuid": "10f58e62-6b9d-4e19-acab-503460cd663a",
+      "DisplayName": "XMLDom",
+      "ColorIndex": 0
+    },
+    "29ebcdc9-ca2f-49b3-b2f2-08f6530998b5": {
+      "ProjectGuid": "29ebcdc9-ca2f-49b3-b2f2-08f6530998b5",
+      "DisplayName": "VB_XML",
+      "ColorIndex": 1
+    },
+    "0f7e508b-bf2a-456a-b053-ad79f279607b": {
+      "ProjectGuid": "0f7e508b-bf2a-456a-b053-ad79f279607b",
+      "DisplayName": "BaiTap1",
+      "ColorIndex": 2
+    },
+    "2601e48d-8ca4-4821-936a-d87df6445755": {
+      "ProjectGuid": "2601e48d-8ca4-4821-936a-d87df6445755",
+      "DisplayName": "BaiTap2",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    }
+  },
+  "NextColorIndex": 4
+}

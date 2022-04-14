@@ -1,0 +1,8 @@
+D:\Workspace\XML\XML\BaiTap2\bin\Debug\BaiTap2.exe.config
+D:\Workspace\XML\XML\BaiTap2\bin\Debug\BaiTap2.exe
+D:\Workspace\XML\XML\BaiTap2\bin\Debug\BaiTap2.pdb
+D:\Workspace\XML\XML\BaiTap2\obj\Debug\BaiTap2.csproj.AssemblyReference.cache
+D:\Workspace\XML\XML\BaiTap2\obj\Debug\BaiTap2.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\XML\XML\BaiTap2\obj\Debug\BaiTap2.csproj.CoreCompileInputs.cache
+D:\Workspace\XML\XML\BaiTap2\obj\Debug\BaiTap2.exe
+D:\Workspace\XML\XML\BaiTap2\obj\Debug\BaiTap2.pdb

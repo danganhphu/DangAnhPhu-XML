@@ -1,0 +1,8 @@
+D:\Workspace\XML\XML\XMLDom\bin\Debug\XMLDom.exe.config
+D:\Workspace\XML\XML\XMLDom\bin\Debug\XMLDom.exe
+D:\Workspace\XML\XML\XMLDom\bin\Debug\XMLDom.pdb
+D:\Workspace\XML\XML\XMLDom\obj\Debug\XMLDom.csproj.AssemblyReference.cache
+D:\Workspace\XML\XML\XMLDom\obj\Debug\XMLDom.csproj.SuggestedBindingRedirects.cache
+D:\Workspace\XML\XML\XMLDom\obj\Debug\XMLDom.csproj.CoreCompileInputs.cache
+D:\Workspace\XML\XML\XMLDom\obj\Debug\XMLDom.exe
+D:\Workspace\XML\XML\XMLDom\obj\Debug\XMLDom.pdb
